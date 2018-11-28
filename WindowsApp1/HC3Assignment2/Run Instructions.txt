@@ -1,1 +1,8 @@
-# hc3Assignment2
+How to Run Assignment 2
+Navigate to /bin/debug/ and open the executable file called WindowsApp1.exe.
+*NOTE* Anything on the user interface that is pink,  is not part of the actual UI. That is there to simulate the physical interact with the system
+
+By
+Daniel Agostinho 001414323
+Jin Lee	001417622
+Tara Madani 001431692
